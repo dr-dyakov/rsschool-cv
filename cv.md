@@ -19,7 +19,6 @@ I am a dedicated, organized, and methodical individual. I have good interpersona
 * **[WEB-разработчик 2022](https://www.udemy.com/share/101Wy23@_P7QbyqFzEsNtCHII2GTqmgP0_Xe5OSIKoVZ6xb1lmKqxSst8eddBK-IsIUZYOKo/)**
 * **[The Complete 2022 Web Development Bootcamp](https://www.udemy.com/share/1013gG3@5fRv0EIeL1S6GyeDqMkxvyBd_GOzTr_taErUuoikiHBprYWdPTWkJxifdAQ4oL89/)**
 
-
 ## Languages:
 * **Russian** - Native
 * **English** - Intermediate (B1)
